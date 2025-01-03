@@ -10,3 +10,4 @@ print(animal.rstrip())
 print(animal.strip())
 print(animal.title())
 print(animal.capitalize())
+hola
